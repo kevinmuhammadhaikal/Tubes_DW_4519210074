@@ -1,0 +1,27 @@
+body {
+    background-attachment: fixed;
+    background-size: cover;
+    font-size: larger;
+    padding-top: 10px;
+}
+.pin {
+    background-color: burlywood;
+    padding-top: 20px;
+    margin-top: 5px;
+}
+.kat{
+    background-color: ;
+    text-shadow: black;
+    padding: 10px;
+    text-align: center;
+    font-size: 20px;
+    color: white;
+}
+
+nav {
+    -webkit-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+    background: #ccc;
+    padding: 20px;
+}
